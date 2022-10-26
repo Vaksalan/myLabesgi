@@ -4,6 +4,7 @@ Faites attention aux ours et aux cochons dans les alentours.
 
 ![Freljord](/images/freljord.jpg)
 
+Auteur du lieu : Chris BHASKARAN
 
 Bravo ! Vous avez trouvé l'objet secret. Cliquez dessus afin de vous teleporter vers d'autres cieux.
 [![SecretObject](/images/objet-secret.png)](https://github.com/osamaemam-git/Labyrinthe---OVVC/blob/main/index.md)
