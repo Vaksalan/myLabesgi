@@ -1,7 +1,7 @@
 Bienvenue à Los Santos ! 
 Une ville très amusante où on est libre de faire ce qu'on souhaite (vraiment)
 
-![Los Santos](/images/lossantos.jpg)
+[![Los Santos](/images/lossantos.jpg)](https://www.youtube.com/watch?v=QkkoHAzjnUs)
 
 Auteur du lieu : Vaksalan Sritharan. 
 
