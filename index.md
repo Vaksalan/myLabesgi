@@ -4,5 +4,5 @@ Nous esperons vous revoir à la fin du labyrinthe car on risque de vous perdre e
 
 Bon jeu à vous ! :D
 
-[![door](<img src="/images/door.jpg"  width="300" height="300">)](https://github.com/Vaksalan/myLabesgi/blob/main/salle1.md )
-[![door2](/images/door.jpg | width=100)](https://github.com/Vaksalan/myLabesgi/blob/main/salle2.md )
+[![door](/images/door.jpg) very good|512x397,20%](https://github.com/Vaksalan/myLabesgi/blob/main/salle1.md )
+[![door2](/images/door.jpg)](https://github.com/Vaksalan/myLabesgi/blob/main/salle2.md )
