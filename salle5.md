@@ -7,4 +7,6 @@ Auteur du lieu : Chris BHASKARAN
 
 Cliquez sur cette porte si vous souhaitez retourner en arrière
 
-[![door](/images/door.jpg)](https://github.com/Vaksalan/myLabesgi/blob/main/salle1.md)
+<a href="https://github.com/Vaksalan/myLabesgi/blob/main/salle1.md">
+    <img src="./images/door.jpg" alt="image" width="550"/>
+</a>
