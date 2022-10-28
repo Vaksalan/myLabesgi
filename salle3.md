@@ -16,5 +16,5 @@ Auteur du lieu : Vaksalan Sritharan
 
 
 <a href="https://github.com/Vaksalan/myLabesgi/blob/main/salle1.md">
-    <img src="./images/door.jpg" alt="image" width="480" align="center"/>
+    <img src="./images/door.jpg" alt="image" width="510" align="center"/>
 </a>
