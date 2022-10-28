@@ -5,6 +5,16 @@ Samourai, ninja et maitre de l'ombre sont les représentants de ce lieu.
 
 Auteur du lieu : Chris BHASKARAN
 
-[![door1](/images/door.jpg)](https://github.com/Vaksalan/myLabesgi/blob/main/loose.md)
-[![door2](/images/door.jpg)](https://github.com/Vaksalan/myLabesgi/blob/main/salle2.md)
-[![door3](/images/door.jpg)](https://github.com/Vaksalan/myLabesgi/blob/main/victory.md)
+<a href="https://github.com/Vaksalan/myLabesgi/blob/main/loose.md">
+    <img src="./images/door.jpg" alt="image" width="480" align="left"/>
+</a>
+
+
+<a href="https://github.com/Vaksalan/myLabesgi/blob/main/salle2.md">
+    <img src="./images/door.jpg" alt="image" width="480" align="right"/>
+</a>
+
+
+<a href="https://github.com/Vaksalan/myLabesgi/blob/main/victory.md">
+    <img src="./images/door.jpg" alt="image" width="510" align="center"/>
+</a>
