@@ -14,7 +14,8 @@ Auteur du lieu : Chris BHASKARAN
     <img src="./images/door.jpg" alt="image" width="480" align="right"/>
 </a>
 
-
-<a href="https://github.com/Vaksalan/myLabesgi/blob/main/victory.md">
-    <img src="./images/door.jpg" alt="image" width="510" align="center"/>
-</a>
+<p align="center>
+	<a href="https://github.com/Vaksalan/myLabesgi/blob/main/victory.md">
+    	<img src="./images/door.jpg" alt="image" width="510" align="center"/>
+	</a>
+</p>
