@@ -9,11 +9,13 @@ Auteur du lieu : Vaksalan Sritharan
     <img src="./images/door.jpg" alt="image" width="480" align="left"/>
 </a>
 
+_
+
 <a href="https://github.com/Vaksalan/myLabesgi/blob/main/salle2.md">
     <img src="./images/door.jpg" alt="image" width="480" align="right"/>
 </a>
 
--
+_
 
 <a href="https://github.com/Vaksalan/myLabesgi/blob/main/salle1.md">
     <img src="./images/door.jpg" alt="image" width="480"/>
