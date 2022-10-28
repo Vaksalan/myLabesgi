@@ -5,10 +5,10 @@ Nous esperons vous revoir à la fin du labyrinthe car on risque de vous perdre e
 Bon jeu à vous ! :D
 
 <a href="https://github.com/Vaksalan/myLabesgi/blob/main/salle1.md">
-    <img src="./images/door.jpg" alt="image" width="500" align="left"/>
+    <img src="./images/door.jpg" alt="image" width="470" align="left"/>
 </a>
 
 
 <a href="https://github.com/Vaksalan/myLabesgi/blob/main/salle2.md">
-    <img src="./images/door.jpg" alt="image" width="500" align="left"/>
+    <img src="./images/door.jpg" alt="image" width="470" align="left"/>
 </a>
