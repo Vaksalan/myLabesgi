@@ -7,5 +7,11 @@ Cliquez sur l'image pour en découvrir plus sur ce lieu
 Auteur du lieu : Vaksalan Sritharan. 
 
 
-[![door1](/images/door.jpg)](https://github.com/Vaksalan/myLabesgi/blob/main/salle5.md)
-[![door2](/images/door.jpg)](https://github.com/Vaksalan/myLabesgi/blob/main/salle3.md)
+<a href="https://github.com/Vaksalan/myLabesgi/blob/main/salle5.md">
+    <img src="./images/door.jpg" alt="image" width="500" align="left"/>
+</a>
+
+
+<a href="https://github.com/Vaksalan/myLabesgi/blob/main/salle3.md">
+    <img src="./images/door.jpg" alt="image" width="500" align="left"/>
+</a>
