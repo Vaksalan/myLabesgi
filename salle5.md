@@ -1,7 +1,7 @@
 Vous avez mis les pieds à Shurima ! 
 Tempêtes de sables, monstres du néant c'est pas ce qu'il manque ici...
 
-![Shurima](/images/shurima.jpg)
+[![Shurima](/images/shurima.jpg)](https://www.youtube.com/watch?v=_mnkkIhoC8c&t=65s)
 
 Auteur du lieu : Chris BHASKARAN
 
