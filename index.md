@@ -5,7 +5,10 @@ Nous esperons vous revoir à la fin du labyrinthe car on risque de vous perdre e
 Bon jeu à vous ! :D
 
 <a href="https://github.com/Vaksalan/myLabesgi/blob/main/salle1.md">
-    <img src="./images/door.jpg" alt="image" width="200" />
+    <img src="./images/door.jpg" alt="image" width="300" align="left"/>
 </a>
 
-[![door2](./images/door.jpg)](https://github.com/Vaksalan/myLabesgi/blob/main/salle2.md )
+
+<a href="https://github.com/Vaksalan/myLabesgi/blob/main/salle2.md">
+    <img src="./images/door.jpg" alt="image" width="300" align="left"/>
+</a>
